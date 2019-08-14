@@ -2,6 +2,8 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 Demo: https://youtu.be/hq3xJUArB_g
 
+Shopping cart application. Allows users to create profiles (buyer or seller). Add and keep track of inventory as seller. Add items to a shopping cart to check out as buyer.
+
 1. create project and add a Source Package called "shoppingcart"
 
 2. Go into the project directory you just created and under scr replace the folder called "shoppingcart" with the one provided by me under the src folder.
