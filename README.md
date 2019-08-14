@@ -44,3 +44,7 @@ discounted product” once more than one item is selected. For a bundle you can 
 custom price, or it will automatically add up all product prices. The discounted and
 bundled items cannot be edited, only removed.
 All data is saved once the user closes the application.
+
+# Languages Used:
+- Java (Swing for UI)
+
