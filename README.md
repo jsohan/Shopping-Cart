@@ -1,9 +1,9 @@
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-## Demo: 
+# Demo: 
 https://youtu.be/hq3xJUArB_g
 
-## Installation 
+# Installation: 
 1. create project and add a Source Package called "shoppingcart"
 
 2. Go into the project directory you just created and under scr replace the folder called "shoppingcart" with the one provided by me under the src folder.
@@ -22,7 +22,7 @@ the password field is case sensitive and these only work if the List.dat file is
 
 6. Otherwise feel free to create users and try it out for yourself
 
-## System Functionality 
+# System Functionality:
 When the application is first started, the user sees a simple boxed application
 where they are prompted to login or create a customer/seller account. From there the
 user will be signed in as either a customer or seller.
